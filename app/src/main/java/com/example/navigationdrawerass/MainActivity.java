@@ -17,7 +17,7 @@ import androidx.fragment.app.Fragment;
 import com.example.navigationdrawerass.databinding.ActivityMainBinding;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationView;
-
+Marked by Mahmoud
 public class MainActivity extends AppCompatActivity {
     ActivityMainBinding binding;
     private DrawerLayout drawerLayout;
